@@ -25,10 +25,10 @@ Acredito que tecnologia é impacto — e meu objetivo é entregar soluções que
 
 📬 Contatos
 
-🔗 LinkedIn: https://www.linkedin.com/in/caio-oliveira-749173135/
+LinkedIn: https://www.linkedin.com/in/caio-oliveira-749173135/
 
-🐙 GitHub: https://github.com/caquitooliveira
+GitHub: https://github.com/caquitooliveira
 
-📱 WhatsApp: (61) 98152-5261
+WhatsApp: (61) 98152-5261
 
-✉️ E-mail: caquitooliveira@gmail.com
+E-mail: caquitooliveira@gmail.com
