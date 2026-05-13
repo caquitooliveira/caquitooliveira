@@ -1,22 +1,17 @@
 # 👋 Olá! Eu sou o Caio Oliveira
 
-🎯 Front-End Developer focado em React, TypeScript e aplicações web modernas.
+🎯 Front-End Developer Jr  
+🎓 Análise e Desenvolvimento de Sistemas – Anhanguera
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas – Anhanguera
+Desenvolvedor Front-End focado na criação de interfaces modernas, responsivas e bem estruturadas.
 
----
+Tenho experiência prática no desenvolvimento de aplicações utilizando , React, TypeScript, Redux Toolkit e integração com APIs REST, sempre buscando escrever código limpo, reutilizável e escalável.
 
-# 🚀 Sobre mim
-
-Sou desenvolvedor Front-End Jr apaixonado por criar interfaces modernas, responsivas e bem estruturadas.
-
-Tenho experiência prática no desenvolvimento de aplicações utilizando React, TypeScript, Redux, Angular e consumo de APIs REST, sempre buscando escrever código organizado, reutilizável e escalável.
-
-Atualmente venho aprimorando minhas habilidades através de projetos práticos e estudos voltados para desenvolvimento frontend moderno e arquitetura de aplicações web.
+Atualmente venho aprimorando minhas habilidades em arquitetura Front-End, gerenciamento de estado, componentização e construção de aplicações web modernas.
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+# 🚀 Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br/>
 
@@ -36,34 +31,20 @@ Atualmente venho aprimorando minhas habilidades através de projetos práticos e
 
 <img align="center" alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
+<img align="center" alt="antd" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
+
 </div>
 
 ---
 
-# 📚 Atualmente estudando
-
-* React avançado
-* Redux Toolkit
-* TypeScript
-* Arquitetura Front-End
-* APIs REST
-* Responsividade e UI/UX
-
----
-
-# 📈 Objetivo
-
-Busco uma oportunidade para crescer profissionalmente como desenvolvedor Front-End, participando de projetos reais, colaborando em equipe e evoluindo constantemente minhas habilidades técnicas.
-
----
 
 # 📬 Contato
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/caio-oliveira-749173135/
+🔗 LinkedIn  
+www.linkedin.com/in/caio-oliveira-749173135/
 
-💻 GitHub:
-https://github.com/caquitooliveira
+💻 GitHub  
+github.com/caquitooliveira
 
-📧 E-mail:
-[caquitooliveira@gmail.com](mailto:caquitooliveira@gmail.com)
+📧 E-mail  
+caquitooliveira@gmail.com
