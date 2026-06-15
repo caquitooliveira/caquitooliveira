@@ -1,50 +1,44 @@
 # 👋 Olá! Eu sou o Caio Oliveira
 
-🎯 Front-End Developer Jr  
-🎓 Análise e Desenvolvimento de Sistemas – Anhanguera
+🎯 Desenvolvedor Front-End Jr
 
-Desenvolvedor Front-End focado na criação de interfaces modernas, responsivas e bem estruturadas.
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-Tenho experiência prática no desenvolvimento de aplicações utilizando , React, TypeScript, Redux Toolkit e integração com APIs REST, sempre buscando escrever código limpo, reutilizável e escalável.
+Sou desenvolvedor Front-End com foco na criação de interfaces modernas, responsivas e acessíveis.
 
-Atualmente venho aprimorando minhas habilidades em arquitetura Front-End, gerenciamento de estado, componentização e construção de aplicações web modernas.
+Possuo experiência prática no desenvolvimento de aplicações utilizando Angular, React, Next.js, TypeScript e JavaScript, aplicando boas práticas de desenvolvimento, componentização, integração de dados, autenticação e versionamento de código.
 
----
+Ao longo da minha formação e especializações, desenvolvi projetos que envolvem sistemas de gerenciamento, operações CRUD, dashboards interativos e aplicações web modernas, sempre buscando escrever código limpo, organizado e de fácil manutenção.
 
-# 🚀 Tecnologias & Ferramentas
+Atualmente continuo aprimorando meus conhecimentos em desenvolvimento Front-End e desenvolvimento Full Stack por meio de estudos contínuos e projetos práticos.
 
-<div style="display: inline_block"><br/>
+## 🚀 Tecnologias
 
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,git,github,nodejs" />
+</p>
 
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+## 📌 Projetos em Destaque
 
-<img align="center" alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+### MiniMundo
 
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+Projeto desenvolvido com React e Next.js simulando o site de uma agência de branding, design e tecnologia.
 
-<img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+### Stock Control
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+Sistema de controle de estoque desenvolvido com Angular, Node.js e Prisma, incluindo autenticação JWT e dashboard interativo.
 
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### CRUD Funcionários
 
-<img align="center" alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+Sistema de gerenciamento de funcionários desenvolvido com TypeScript aplicando operações CRUD.
 
-<img align="center" alt="antd" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
+## 📬 Contato
 
-</div>
+LinkedIn:
+[www.linkedin.com/in/caio-oliveira-749173135/](http://www.linkedin.com/in/caio-oliveira-749173135/)
 
----
-
-
-# 📬 Contato
-
-🔗 LinkedIn  
-www.linkedin.com/in/caio-oliveira-749173135/
-
-💻 GitHub  
+GitHub:
 github.com/caquitooliveira
 
-📧 E-mail  
-caquitooliveira@gmail.com
+E-mail:
+[caquitooliveira@gmail.com](mailto:caquitooliveira@gmail.com)
