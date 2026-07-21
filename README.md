@@ -18,20 +18,6 @@ Atualmente continuo aprimorando meus conhecimentos em desenvolvimento Front-End 
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,git,github,nodejs" />
 </p>
 
-## 📌 Projetos em Destaque
-
-### MiniMundo
-
-Projeto desenvolvido com React e Next.js simulando o site de uma agência de branding, design e tecnologia.
-
-### Stock Control
-
-Sistema de controle de estoque desenvolvido com Angular, Node.js e Prisma, incluindo autenticação JWT e dashboard interativo.
-
-### CRUD Funcionários
-
-Sistema de gerenciamento de funcionários desenvolvido com TypeScript aplicando operações CRUD.
-
 ## 📬 Contato
 
 LinkedIn:
