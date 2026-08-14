@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Caio Oliveira
 
-🎯 Desenvolvedor Front-End Jr
+🎯 Desenvolvedor Front-End 
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
